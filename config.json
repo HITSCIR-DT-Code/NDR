@@ -1,0 +1,8 @@
+{
+    "lr": 0.0004,
+    "Epochs": 13,
+    "batch_size": 64,
+    "accumulation_steps":20,
+    "delete_rate":0.3,
+    "lambda*c_loss":5
+}
